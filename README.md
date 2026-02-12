@@ -188,4 +188,4 @@ I aim to contribute to building intelligent and secure AI-driven systems.
 
 ## 📫 Contact
 
-LinkedIn: [[Add Your Link]](https://www.linkedin.com/in/ibrahim-cisse-633499313/)
+LinkedIn:(https://www.linkedin.com/in/ibrahim-cisse-633499313/)
